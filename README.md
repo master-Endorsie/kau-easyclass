@@ -1,3 +1,3 @@
 # kau-easyclass
-A Userscript
+A Userscript  
 All Rights Reserved
